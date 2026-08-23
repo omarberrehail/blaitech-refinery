@@ -1,0 +1,13 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.omarberrehail/blaitech-refinery",
+  "title": "Blaitech Data Refinery MCP",
+  "description": "x402-gated weather and FX exchange rate data endpoints for AI agents.",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://blaitech-refinery.vercel.app"
+    }
+  ]
+}
